@@ -1,0 +1,5 @@
+staged:
+ staged: true
+
+unstaged:
+ staged: false
