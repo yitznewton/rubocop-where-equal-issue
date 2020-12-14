@@ -1,0 +1,19 @@
+require: rubocop-rails
+
+Style/Documentation:
+  Enabled: false
+
+Style/MixinUsage:
+  Enabled: false
+
+Rails/HasManyOrHasOneDependent:
+  Enabled: false
+
+Rails/FilePath:
+  Enabled: false
+
+Rails/CreateTableWithTimestamps:
+  Enabled: false
+
+AllCops:
+  NewCops: enable
